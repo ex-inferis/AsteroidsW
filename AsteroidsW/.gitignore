@@ -1,0 +1,15 @@
+﻿# Build results
+bin/
+obj/
+
+# Rider files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.suo
+
+# Others
+*.log
+*.cache
